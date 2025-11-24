@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Palak</h1>
-<h3 align="center">Aspiring ML Engineer | Problem Solver | Tech Enthusiast</h3>
+<h3 align="center">Aspiring Software Engineer | Problem Solver | Tech Enthusiast</h3>
 
 ---
 
@@ -33,11 +33,6 @@
   <a href="https://www.linkedin.com/in/palak-mahajan-277728317/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/bytewithpalak">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
 
----
 
 <p align="center">⚡ *Always open to collaboration and learning new things!* ⚡</p>
