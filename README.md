@@ -17,19 +17,7 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bytewithpalak&show_icons=true&theme=algolia&hide_border=true" alt="Palak's GitHub stats" />
-</p>
 
----
-
-## 🚀 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bytewithpalak&layout=compact&theme=algolia&hide_border=true" alt="Top Languages" />
-</p>
-
----
 
 ## 👩‍💻 About Me
 - 🔭 Currently learning **Machine Learning & Deep Learning**
